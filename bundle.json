@@ -1,0 +1,11 @@
+{
+	"name": "web-component-google-static-map", 
+	"resources": {
+		"static-map.tpl": {
+			"url": "static-map.tpl"
+		}, 
+		"static-map.js": {
+			"url": "static-map.js"
+		}
+	}
+}
